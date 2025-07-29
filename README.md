@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidhi Chaitguru</h1>
-<h3 align="center">Aspiring Frontend Developer | B.Sc. Computer Science Final Year</h3>
+<h3 align="center">Aspiring Full Stack  Developer | B.Sc. Computer Science Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Frontend+Enthusiast;Passionate+about+UI%2FUX;Learning+Every+Day&center=true&width=380&height=45">
@@ -9,9 +9,9 @@
 
 🌸 **About Me**
 
-- 🎓 Final-year B.Sc. Computer Science student  
+- 🎓  B.Sc. Computer Science student  
 - 💻 Passionate about creating modern, responsive websites  
-- 🌱 Currently learning **Next.js** and deepening my **React & Tailwind CSS** skills  
+- 🌱 Currently learning Backend and deepening my **React & Tailwind CSS** skills  
 - 💡 I enjoy solving problems & building stylish user interfaces  
 - 🌟 Love organizing events and leading teams!
 
